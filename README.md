@@ -13,6 +13,8 @@
 
 <img width="948" height="241" alt="Установка и запуск Memcached" src="https://github.com/user-attachments/assets/9120fdd6-e179-42eb-9051-30e941e1d32a" />
 
+Команды: `task-2/commands.sh`
+
 ## Задание 3. Удаление по TTL в Memcached
 
 <img width="955" height="379" alt="Удаление ключей по TTL в Memcached" src="https://github.com/user-attachments/assets/aaccd597-a1f1-4c36-9fd6-5a07177f1ff1" />
